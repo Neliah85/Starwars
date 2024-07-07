@@ -11,6 +11,7 @@ namespace Starwars
         static void Main(string[] args)
         {
             fff
+                int szam = 1;
         }
     }
 }
