@@ -43,9 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FileName.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Erohasznalo.cs" />
+    <Compile Include="Mester.cs" />
+    <Compile Include="Starwars.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rend.cs" />
+    <Compile Include="Tanitvany.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
